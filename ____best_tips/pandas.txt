@@ -1,0 +1,7 @@
+1. when traversing as index
+	for index ,row in dataframe.iterrows():
+		print(index)
+		# print  int if the index is inet
+		# print date if index is date
+
+2.
